@@ -1,0 +1,99 @@
+{
+    "baseline": {
+        "wer": 0.26848249027237353,
+        "cer": 0.10405904059040591,
+        "total_latency": 5.058489799499512,
+        "avg_latency": 0.33723265329996743,
+        "peak_vram_mb": 181.6123046875,
+        "predictions": [
+            "the other voice snapped with a harsh urgency, clearly used to demand.",
+            "where is that?",
+            "oh no, i'm quite sure he didn't.",
+            "not exactly, we've turned chemical.",
+            "i also offered to help your brother to escape, but he would not go.",
+            "having returned to the royal cavern, calacul, first pounded the gong, and then sat in the throne, wearing reggos, discarded ruby crown, and holding in his hand to scepter which reggadoo had so often thrown at his head.",
+            "the strength of the enables someone in a trans to hold his body stiff and unsupported except at two points the head and heels.",
+            "he thought it was the last burst of energy. he knew how closely both were to exhaustion.",
+            "to resign and still wondering, pre-in was once more asleep.",
+            "he was in riverry sliding along the borders of consciousness."
+        ],
+        "references": [
+            "the other voice snapped with a harsh urgency clearly used to command",
+            "where is that",
+            "oh no i'm quite sure he didn't",
+            "not exactly returned kaliko",
+            "i also offered to help your brother to escape but he would not go",
+            "having returned to the royal cavern kaliko first pounded the gong and then sat in the throne wearing ruggedo's discarded ruby crown and holding in his hand the sceptre which ruggedo had so often thrown at his head",
+            "the strength that enables someone in a trance to hold his body stiff and unsupported except at two points the head and heels",
+            "he thought it was a last burst of energy he knew how close they both were to exhaustion",
+            "there was silence then and still wondering brion was once more asleep",
+            "he was in reverie sliding along the borders of consciousness"
+        ]
+    },
+    "lora_decoder": {
+        "wer": 0.19844357976653695,
+        "cer": 0.07749077490774908,
+        "total_latency": 4.947828531265259,
+        "avg_latency": 0.3298552354176839,
+        "peak_vram_mb": 173.7041015625,
+        "predictions": [
+            "the other voice snapped with a harsh urgency clearly used to demand.",
+            "where is that?",
+            "oh no, i'm quite sure he didn't.",
+            "not exactly, we've turned calico",
+            "i also offered to help your brother to escape, but he would not go.",
+            "having returned to the royal cavern, calico first pounded the gong and then sat in the throne wearing reggos discarded ruby crown and holding in his hand to scepter which reggo had so often thrown at his head.",
+            "the strength that enables someone in a trans to hold his body stiff and unsupported except at two points the head and heels",
+            "he thought it was the last burst of energy. he knew how closely both were to exhaustion.",
+            "to his silence then and still wondering pre-in was once more asleep",
+            "he was in riverry sliding along the borders of consciousness"
+        ],
+        "references": [
+            "the other voice snapped with a harsh urgency clearly used to command",
+            "where is that",
+            "oh no i'm quite sure he didn't",
+            "not exactly returned kaliko",
+            "i also offered to help your brother to escape but he would not go",
+            "having returned to the royal cavern kaliko first pounded the gong and then sat in the throne wearing ruggedo's discarded ruby crown and holding in his hand the sceptre which ruggedo had so often thrown at his head",
+            "the strength that enables someone in a trance to hold his body stiff and unsupported except at two points the head and heels",
+            "he thought it was a last burst of energy he knew how close they both were to exhaustion",
+            "there was silence then and still wondering brion was once more asleep",
+            "he was in reverie sliding along the borders of consciousness"
+        ]
+    },
+    "lora_both": {
+        "wer": 0.1828793774319066,
+        "cer": 0.07749077490774908,
+        "total_latency": 4.526526927947998,
+        "avg_latency": 0.3017684618631999,
+        "peak_vram_mb": 173.1611328125,
+        "predictions": [
+            "the other voice snapped with a harsh urgency clearly used to command",
+            "where is that?",
+            "oh no, i'm quite sure he did",
+            "not exactly, we've turned calico",
+            "i also offered to help your brother to escape but he would not go",
+            "having returned to the royal cavern, calacul first pounded the gong and then sat in the throne wearing reggos discarded ruby crown and holding in his hand to scepter which reggo had so often thrown at his head.",
+            "the strength that enables someone in a trance to hold his body stiff and unsupported except at two points the head and heels",
+            "he thought it was the last burst of energy he knew how closely both were to exhaustion",
+            "there is silence then and still wondering pre-en was once more asleep",
+            "he was in reverie sliding out on the borders of consciousness"
+        ],
+        "references": [
+            "the other voice snapped with a harsh urgency clearly used to command",
+            "where is that",
+            "oh no i'm quite sure he didn't",
+            "not exactly returned kaliko",
+            "i also offered to help your brother to escape but he would not go",
+            "having returned to the royal cavern kaliko first pounded the gong and then sat in the throne wearing ruggedo's discarded ruby crown and holding in his hand the sceptre which ruggedo had so often thrown at his head",
+            "the strength that enables someone in a trance to hold his body stiff and unsupported except at two points the head and heels",
+            "he thought it was a last burst of energy he knew how close they both were to exhaustion",
+            "there was silence then and still wondering brion was once more asleep",
+            "he was in reverie sliding along the borders of consciousness"
+        ]
+    },
+    "summary": {
+        "relative_improvement_percent": 31.884057971014496,
+        "success": true
+    }
+}
